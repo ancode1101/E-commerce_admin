@@ -51,8 +51,12 @@ http://localhost:4200
 CREATE DATABASE ecommerce;
 
 
-### 1️⃣ Clone the repository
+📸 Screenshots
+📋 Product List View
+  ![image](https://github.com/user-attachments/assets/36429c04-16e2-48c1-986e-dfd3cb788a4e)
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+🖊️ Edit Product
+![image](https://github.com/user-attachments/assets/3c8864b4-3e0f-4352-af50-daf8714b807a)
+
+🔍 Product Details
+![image](https://github.com/user-attachments/assets/2a11fd5d-016b-48d2-9a4c-a2a7ae06cecd)
